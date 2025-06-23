@@ -41,7 +41,7 @@ In the main [Refactor Website](https://github.com/refactorburbs/refactor-website
 - [LED Overlay Background Image](https://github.com/refactorburbs/refactor-website/blob/main/components/home/ledOverlay.module.css)
 
 ### Constants
-- [Website-Facing Asset Links](https://github.com/refactorburbs/refactor-website/blob/main/lib/constants/images.constants.ts)
+- [Website-Facing Asset Links](https://github.com/refactorburbs/refactor-website/blob/main/lib/constants/assets.constants.ts)
 
 ## ✏️ Updating Assets
 
